@@ -1,6 +1,6 @@
 # EXPERIMENT--04-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
-### Name : Meenu S
-### Roll no : 212223230124
+### Name : SREE HARI K
+### Roll no : 212223230212
 ### Date of experiment : 23.09.24
 ## Aim: 
 To Interface a 4X4 matrix keypad and show the output on 16X2 LCD display to ARM controller , and simulate it in Proteus.
